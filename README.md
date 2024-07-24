@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on exciting remote development projects that push the boundaries of technology. 👯 I’m looking to collaborate on innovative solutions and cutting-edge applications. 🤝 I’m looking for help with optimizing workflows for remote teams. 🌱 I’m currently learning advanced techniques in cloud computing and machine learning. 💬 Ask me about the challenges and perks of remote development, or anything tech-related! ⚡ Fun fact: I can debug code from anywhere in the world, even while exploring new places!
 
 
 ## 🌐 Socials:
