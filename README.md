@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Arief Setyo Nugroho:
 🔭 I’m currently working on exciting remote development projects that push the boundaries of technology.</br>👯 I’m looking to collaborate on innovative solutions and cutting-edge applications.</br>🤝 I’m looking for help with optimizing workflows for remote teams. 
 </br>🌱 I’m currently learning advanced techniques in cloud computing and machine learning.</br>💬 Ask me about the challenges and perks of remote development, or anything tech-related!</br>⚡ Fun fact: I can debug code from anywhere in the world, even while exploring new places!
 
